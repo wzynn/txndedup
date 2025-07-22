@@ -1,0 +1,9 @@
+.idea
+go_build*
+nacos_*
+bin/log/nacos*
+bin/build_*
+vendor
+bin/log
+bin/conf/setting_local.yaml
+.vscode/*
