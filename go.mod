@@ -1,4 +1,5 @@
-module txndedup
+module github.com/wzynn/txndedup
+
 
 go 1.24.1
 

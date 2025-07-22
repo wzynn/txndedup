@@ -2,9 +2,9 @@ package tests
 
 import (
 	"context"
+	"github.com/wzynn/txndedup"
 	"testing"
 	"time"
-	"txndedup"
 )
 
 func TestDetector_CheckDuplicate(t *testing.T) {
